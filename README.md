@@ -12,3 +12,7 @@ Also, the settings related to an SMS panel API are designed along with the docum
 برای اپ هم یک قالب امده طراحی شده تا جلوه نمایش زیباتر شود .
 همچنین تنظیمات مرتبط با یک api پنل پیامکی هم به همراه مستندات طراحی شده تا به محض ثبت نام کاربر پیامک رمزعبور یا خوش امد گویی ارسال شود .
                                                                                                                        موفق باشید .
+                                                                                                                       
+                                                                                                                       
+![Capture1](https://github.com/user-attachments/assets/939e1c9d-858d-43f7-9644-5e6c3458da61)
+
